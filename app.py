@@ -12,7 +12,7 @@ st.set_page_config(page_title="Banco Regional Andino", layout="wide")
 # -------------------------
 # CONEXIÓN MONGODB ATLAS
 # -------------------------
-uri = "mongodb+srv://josebaldeon365_db_user:im3v8WmvvbmghmkV@cluster0.dslhgkt.mongodb.net/"
+uri = "mongodb+srv://osogato180_db_user:AgvTkXeblr79B2e4@cluster0.lbqwiz7.mongodb.net/"
 
 client = MongoClient(uri, tlsCAFile=certifi.where())
 
